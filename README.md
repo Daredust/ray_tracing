@@ -30,3 +30,6 @@ This project is a basic implementation of the book [Ray Tracing In One Weekend](
 ## Usage
 
 Modify the `src/main.rs` file to set up your scene. You can add spheres, planes, and configure the camera and lighting.
+
+## Example
+![example render](render.png)
