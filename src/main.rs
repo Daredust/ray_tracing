@@ -47,7 +47,6 @@ fn main() {
     let max_depth = 50;
 
     let test = Color::new(0.8, 0.5, 0.2);
-    dbg!(test.as_u8_color(1));
 
     // World
     let r = f64::cos((PI / 4.0));
